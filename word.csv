@@ -1,0 +1,270 @@
+of,40,One word
+services,2,One word
+business,40,One word
+requirements,23,One word
+document,17,One word
+project,8,One word
+-,3,One word
+version,2,One word
+3.2,3,One word
+revision,2,One word
+date,2,One word
+2019,3,One word
+description,4,One word
+1.,2,One word
+introduction,3,One word
+5,5,One word
+1.1,3,One word
+overview,3,One word
+1.2,2,One word
+references,3,One word
+1.3,2,One word
+glossary,2,One word
+terms,2,One word
+2.,2,One word
+summary,7,One word
+6,6,One word
+2.1,2,One word
+goals,3,One word
+and,29,One word
+objectives,3,One word
+2.2,2,One word
+problem,2,One word
+statement,2,One word
+2.3,2,One word
+2.4,2,One word
+scope,3,One word
+2.5,2,One word
+stakeholders,4,One word
+2.6,2,One word
+functionality,2,One word
+7,5,One word
+2.7,2,One word
+constraints,2,One word
+2.8,2,One word
+assumptions,3,One word
+dependencies,3,One word
+2.9,2,One word
+planning,2,One word
+for,14,One word
+future,4,One word
+phases,2,One word
+or,11,One word
+releases,2,One word
+3.,2,One word
+process,3,One word
+flow,3,One word
+charting,2,One word
+diagrams,11,One word
+3.1,2,One word
+as,8,One word
+is,18,One word
+to,24,One word
+be,21,One word
+4.,2,One word
+traceability,6,One word
+matrix,8,One word
+10,6,One word
+5.,2,One word
+appendices,2,One word
+a.,2,One word
+input,5,One word
+(brim),2,One word
+template,3,One word
+b.,2,One word
+(rtm),2,One word
+c.,2,One word
+sample,2,One word
+brd,15,One word
+d.,2,One word
+reference,6,One word
+[the,4,One word
+the,76,One word
+should,8,One word
+provide,9,One word
+an,9,One word
+brd.,2,One word
+this,12,One word
+a,14,One word
+pages],2,One word
+lot,3,One word
+1-5,3,One word
+it,7,One word
+contractors,2,One word
+in,11,One word
+â,6,One word
+appendix,4,One word
+brim,4,One word
+can,2,One word
+used,3,One word
+"requirements,",4,One word
+generated,3,One word
+from,5,One word
+tfs,4,One word
+populated,2,One word
+with,3,One word
+into,2,One word
+loaded,2,One word
+additional,2,One word
+information,3,One word
+by,8,One word
+use,4,One word
+test,2,One word
+cases,4,One word
+example,8,One word
+(appendix,2,One word
+c),3,One word
+[this,7,One word
+subsection,7,One word
+should:,2,One word
+a),2,One word
+b),2,One word
+specify,2,One word
+brd;,2,One word
+list,3,One word
+all,2,One word
+(if,2,One word
+which,2,One word
+may,4,One word
+provided,3,One word
+required,2,One word
+more,2,One word
+other,2,One word
+section,3,One word
+will,6,One word
+not,3,One word
+[describe,4,One word
+specific,3,One word
+are,3,One word
+that,4,One word
+project.],2,One word
+essential,2,One word
+processes,2,One word
+"processes,",2,One word
+must,2,One word
+support,3,One word
+dpw/bis,2,One word
+product,2,One word
+associated,2,One word
+operations,2,One word
+sections,2,One word
+document.,3,One word
+any,2,One word
+system,2,One word
+using,2,One word
+these,2,One word
+systems,2,One word
+[insert,2,One word
+scanning,2,One word
+invoice,2,One word
+processing,2,One word
+rtm,2,One word
+out,2,One word
+throughout,2,One word
+software,2,One word
+attached,3,One word
+business requirements,8,Two words
+of terms,2,Two words
+business goals,2,Two words
+of business,2,Two words
+for future,2,Two words
+or releases,2,Two words
+as is,3,Two words
+be diagrams,2,Two words
+4 requirements,2,Two words
+brd document,2,Two words
+of the,8,Two words
+should provide,3,Two words
+lot 1-5,3,Two words
+the brim,2,Two words
+can be,2,Two words
+to be,3,Two words
+the brd,5,Two words
+the brd;,2,Two words
+not be,2,Two words
+by business,2,Two words
+business problem],2,Two words
+business operations,2,Two words
+document this,2,Two words
+to provide,2,Two words
+attached document,3,Two words
+business requirements document,2,Three words
+11 document overview,2,Three words
+13 glossary of,2,Three words
+glossary of terms,2,Three words
+2 business requirements,2,Three words
+business requirements summary,2,Three words
+21 business goals,2,Three words
+business goals and,2,Three words
+goals and objectives,3,Three words
+22 problem statement,2,Three words
+23 project description,2,Three words
+26 business functionality,2,Three words
+business functionality summary,2,Three words
+27 business constraints,2,Three words
+28 business assumptions,2,Three words
+business assumptions and,2,Three words
+assumptions and dependencies,3,Three words
+29 planning of,2,Three words
+planning of business,2,Three words
+of business requirements,2,Three words
+business requirements for,3,Three words
+requirements for future,2,Three words
+for future phases,2,Three words
+future phases or,2,Three words
+phases or releases,2,Three words
+3 business process,2,Three words
+business process flow,2,Three words
+process flow charting,2,Three words
+flow charting and,2,Three words
+charting and diagrams,2,Three words
+31 as is,2,Three words
+as is diagrams,3,Three words
+32 to be,2,Three words
+to be diagrams,3,Three words
+4 requirements traceability,2,Three words
+requirements traceability matrix,5,Three words
+a business requirements,2,Three words
+business requirements input,3,Three words
+requirements input matrix,3,Three words
+input matrix (brim),2,Three words
+matrix (brim) template,2,Three words
+b requirements traceability,2,Three words
+traceability matrix (rtm),2,Three words
+c sample brd,2,Three words
+sample brd document,2,Three words
+d brd reference,2,Three words
+brd reference document,2,Three words
+of the brd,5,Three words
+the brd should,4,Three words
+brd should provide,3,Three words
+the lot 1-5,3,Three words
+the business requirements,4,Three words
+be used to,2,Three words
+and test cases,2,Three words
+[this subsection should:,2,Three words
+subsection should: a),2,Three words
+this information may,2,Three words
+information may be,2,Three words
+may be provided,2,Three words
+be provided by,2,Three words
+provided by reference,2,Three words
+by reference to,3,Three words
+summary of the,2,Three words
+of the business,2,Three words
+of the project,2,Three words
+the business problem],2,Three words
+of the project],2,Three words
+of this document,2,Three words
+subsection of the,4,Three words
+should provide a,2,Three words
+[this subsection of,3,Three words
+business requirements to,2,Three words
+requirements to be,2,Three words
+â as is,2,Three words
+generated out of,2,Three words
+[the attached document,3,Three words
+attached document is,2,Three words
+is an example,2,Three words
+an example of,2,Three words
+document [the attached,2,Three words
