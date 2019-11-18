@@ -1,0 +1,43 @@
+{
+    "name": "phrases",
+    "children": [
+        {
+            "name": "Imperative",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "shall"
+                },
+                {
+                    "size": 2,
+                    "name": "must"
+                },
+                {
+                    "size": 1,
+                    "name": "are to"
+                },
+                {
+                    "size": 1,
+                    "name": "responsible for"
+                },
+                {
+                    "size": 6,
+                    "name": "will"
+                },
+                {
+                    "size": 8,
+                    "name": "should"
+                }
+            ]
+        },
+        {
+            "name": "Weak",
+            "children": [
+                {
+                    "size": 3,
+                    "name": "support"
+                }
+            ]
+        }
+    ]
+}
