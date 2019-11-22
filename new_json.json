@@ -2,34 +2,42 @@
     "name": "phrases",
     "children": [
         {
-            "name": "a",
+            "name": "Imperative",
             "children": [
                 {
-                    "size": 14,
-                    "name": "a"
+                    "size": 4,
+                    "name": "use"
+                },
+                {
+                    "size": 1,
+                    "name": "order"
+                },
+                {
+                    "size": 1,
+                    "name": "set"
                 }
             ]
         },
         {
-            "name": "all",
+            "name": "Weak",
             "children": [
                 {
-                    "size": 2,
-                    "name": "all"
+                    "size": 3,
+                    "name": "support"
                 }
             ]
         },
         {
-            "name": "an",
+            "name": "Directive",
             "children": [
                 {
-                    "size": 9,
-                    "name": "an"
+                    "size": 1,
+                    "name": "table"
                 }
             ]
         },
         {
-            "name": "and",
+            "name": "Continuance",
             "children": [
                 {
                     "size": 29,
@@ -38,299 +46,15 @@
             ]
         },
         {
-            "name": "any",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "any"
-                }
-            ]
-        },
-        {
-            "name": "are",
-            "children": [
-                {
-                    "size": 3,
-                    "name": "are"
-                }
-            ]
-        },
-        {
-            "name": "as",
-            "children": [
-                {
-                    "size": 8,
-                    "name": "as"
-                }
-            ]
-        },
-        {
-            "name": "be",
-            "children": [
-                {
-                    "size": 21,
-                    "name": "be"
-                }
-            ]
-        },
-        {
-            "name": "by",
-            "children": [
-                {
-                    "size": 8,
-                    "name": "by"
-                }
-            ]
-        },
-        {
-            "name": "can",
+            "name": "option",
             "children": [
                 {
                     "size": 2,
                     "name": "can"
-                }
-            ]
-        },
-        {
-            "name": "cases",
-            "children": [
-                {
-                    "size": 4,
-                    "name": "cases"
-                }
-            ]
-        },
-        {
-            "name": "for",
-            "children": [
-                {
-                    "size": 14,
-                    "name": "for"
-                }
-            ]
-        },
-        {
-            "name": "from",
-            "children": [
-                {
-                    "size": 5,
-                    "name": "from"
-                }
-            ]
-        },
-        {
-            "name": "in",
-            "children": [
-                {
-                    "size": 11,
-                    "name": "in"
-                }
-            ]
-        },
-        {
-            "name": "into",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "into"
-                }
-            ]
-        },
-        {
-            "name": "is",
-            "children": [
-                {
-                    "size": 18,
-                    "name": "is"
-                }
-            ]
-        },
-        {
-            "name": "it",
-            "children": [
-                {
-                    "size": 7,
-                    "name": "it"
-                }
-            ]
-        },
-        {
-            "name": "may",
-            "children": [
+                },
                 {
                     "size": 4,
                     "name": "may"
-                }
-            ]
-        },
-        {
-            "name": "more",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "more"
-                }
-            ]
-        },
-        {
-            "name": "must",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "must"
-                }
-            ]
-        },
-        {
-            "name": "not",
-            "children": [
-                {
-                    "size": 3,
-                    "name": "not"
-                }
-            ]
-        },
-        {
-            "name": "of",
-            "children": [
-                {
-                    "size": 40,
-                    "name": "of"
-                }
-            ]
-        },
-        {
-            "name": "or",
-            "children": [
-                {
-                    "size": 11,
-                    "name": "or"
-                }
-            ]
-        },
-        {
-            "name": "other",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "other"
-                }
-            ]
-        },
-        {
-            "name": "out",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "out"
-                }
-            ]
-        },
-        {
-            "name": "problem",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "problem"
-                }
-            ]
-        },
-        {
-            "name": "should",
-            "children": [
-                {
-                    "size": 8,
-                    "name": "should"
-                }
-            ]
-        },
-        {
-            "name": "that",
-            "children": [
-                {
-                    "size": 4,
-                    "name": "that"
-                }
-            ]
-        },
-        {
-            "name": "the",
-            "children": [
-                {
-                    "size": 76,
-                    "name": "the"
-                }
-            ]
-        },
-        {
-            "name": "these",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "these"
-                }
-            ]
-        },
-        {
-            "name": "this",
-            "children": [
-                {
-                    "size": 12,
-                    "name": "this"
-                }
-            ]
-        },
-        {
-            "name": "to",
-            "children": [
-                {
-                    "size": 24,
-                    "name": "to"
-                }
-            ]
-        },
-        {
-            "name": "use",
-            "children": [
-                {
-                    "size": 4,
-                    "name": "use"
-                }
-            ]
-        },
-        {
-            "name": "used",
-            "children": [
-                {
-                    "size": 3,
-                    "name": "used"
-                }
-            ]
-        },
-        {
-            "name": "which",
-            "children": [
-                {
-                    "size": 2,
-                    "name": "which"
-                }
-            ]
-        },
-        {
-            "name": "will",
-            "children": [
-                {
-                    "size": 6,
-                    "name": "will"
-                }
-            ]
-        },
-        {
-            "name": "with",
-            "children": [
-                {
-                    "size": 3,
-                    "name": "with"
                 }
             ]
         }
